@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "red-apple",
+      "name": "Red Apple",
+      "asset": "🍎",
+      "category": "fruit",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "green-apple",
+      "name": "Green Apple",
+      "asset": "🍏",
+      "category": "fruit",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "asset": "🥭",
+      "category": "fruit",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "pear",
+      "name": "Pear",
+      "asset": "🍐",
+      "category": "fruit",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "asset": "🍑",
+      "category": "fruit",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "potato",
+      "name": "Potato",
+      "asset": "🥔",
+      "category": "vegetable",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "asset": "🥕",
+      "category": "vegetable",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "asset": "🥦",
+      "category": "vegetable",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "asset": "🥛",
+      "category": "dairy",
+      "displayWidth": 32,
+      "displayHeight": 32
+    },
+    {
+      "id": "bread",
+      "name": "Bread",
+      "asset": "🍞",
+      "category": "bakery",
+      "displayWidth": 32,
+      "displayHeight": 32
+    }
+  ]
+}
